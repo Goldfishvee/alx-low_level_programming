@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * add - adds two integers and returns the result
@@ -14,5 +14,3 @@ int add(int a, int b)
 
 	return (c);
 }
-Footer
-© 2022 GitHub, Inc.
