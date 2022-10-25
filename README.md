@@ -1,1 +1,1 @@
-C programming and script writing
+Tasks on pointers, arrays and strings
