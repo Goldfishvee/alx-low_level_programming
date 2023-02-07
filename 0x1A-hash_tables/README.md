@@ -7,8 +7,8 @@
 * What are the advantages and drawbacks of using hash tables
 * What are the most common use cases of hash tables
 # Resources
-* (Hash Function)[https://en.wikipedia.org/wiki/Hash_function]
-* (Hash Tables)[https://en.wikipedia.org/wiki/Hash_table]
-* (HashTable Data Structure)[https://www.youtube.com/watch?v=MfhjkfocRR0]
-* (How to implement hash tables)[https://www.digitalocean.com/community/tutorials/hash-table-in-c-plus-plus]
-* (Hash Tables on StackOverflow)[https://stackoverflow.com/questions/31930046/what-is-a-hash-table-and-how-do-you-make-it-in-c]
+* [Hash Function](https://en.wikipedia.org/wiki/Hash_function)
+* [Hash Tables](https://en.wikipedia.org/wiki/Hash_table)
+* [HashTable Data Structure](https://www.youtube.com/watch?v=MfhjkfocRR0)
+* [How to implement hash tables](https://www.digitalocean.com/community/tutorials/hash-table-in-c-plus-plus)
+* [Hash Tables on StackOverflow](https://stackoverflow.com/questions/31930046/what-is-a-hash-table-and-how-do-you-make-it-in-c)
