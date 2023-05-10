@@ -1,6 +1,6 @@
 # Search Algorithms
 
-JavaScript is a scripting or programming language that allows implementation of complex features on web pages. It is the third layer cake of standard web technologies (the other two being HTML and CSS).
+A search algorithm is a step-by-step procedure used to locate specific data among a collection of data. It is an algorithm for finding an item with specified properties among a collection of items. The items may be stored individually as records in a database or may be elements of a search space defined by a mathematical formula or procedure, such as the roots of an equation with integer variables or a combination of objects satisfying certain criteria.
 
 ## Learning Objectives :pen:
 
